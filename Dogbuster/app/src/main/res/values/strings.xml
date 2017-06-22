@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dogbuster</string>
+    <string name="title_activity_dogbuster_login">DogbusterLogin</string>
+    <string name="title_activity_dogbuster_register">DogbusterRegister</string>
+    <string name="get_started">Login or create account to start using Dogbuster</string>
+    <string name="title_activity_main_panel">MainPanel</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
